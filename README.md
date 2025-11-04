@@ -1,11 +1,11 @@
-# Estudante de DevOps ⚙️
+# Lucas Mendes
 Olá, é muito bom ter você aqui!👋<br/>
 Fique a vontade para saber mais sobre mim, sobre meus estudos e meus projetos.<br/>
 
 
 ## Sobre Mim
-Sou estudante de Sistema de Informação pela universidade PUC Minas, atualmente no 7º período, possuo experência como analista de infraestrutura e sysadmin. Atualmente estou me aperfeiçoando em DevOps e Computação em Nuvem.<br>
-Tenho conhecimentos em AWS, Docker, Kubernetes, Terraform, GitHub, GitHub Actions CI/CD, Linux, Shell Script, SQL, JavaScript, HTML e CSS.
+Sou estudante de Sistema de Informação pela universidade PUC Minas, atualmente no 8º período, possuo experência como analista de infraestrutura e sysadmin. Atualmente estou trabalhamdo como Dev IA e Automações.<br>
+Tenho conhecimentos em Python, AWS, Docker, Kubernetes, GitHub, GitHub Actions CI/CD, Linux, Shell Script, SQL, JavaScript.
 
 
 ## Minhas Habilidades
