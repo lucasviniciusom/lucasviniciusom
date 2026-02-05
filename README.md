@@ -4,17 +4,12 @@ Fique a vontade para saber mais sobre mim, sobre meus estudos e meus projetos.<b
 
 
 ## Sobre Mim
-Sou estudante de Sistema de Informação pela universidade PUC Minas, atualmente no 8º período, possuo experência como analista de infraestrutura e sysadmin. Atualmente estou trabalhamdo como Dev IA e Automações.<br>
-Tenho conhecimentos em Python, AWS, Docker, Kubernetes, GitHub, GitHub Actions CI/CD, Linux, Shell Script, SQL, JavaScript.
+Sou formado em Sistema de Informação pela universidade PUC Minas, possuo experência como analista de infraestrutura, sysadmin, dev full stack, dev automações e ia. Atualmente estou trabalhamdo como Analista de Business Ops na G4<br>
+Tenho conhecimentos em JS (react), Node.js, AWS, Docker, Kubernetes, GitHub, GitHub Actions CI/CD.
 
 
 ## Minhas Habilidades
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-CA2136?logo=apache&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
